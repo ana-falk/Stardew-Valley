@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Stardew Valley</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Stardew Valley</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Gameplay</a></li>
+				<li><a href="#">Characters</a></li>
+				<li><a href="#">Farming</a></li>
+				<li><a href="#">Crafting</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Welcome to Stardew Valley!</h2>
+			<p>Stardew Valley is a farming simulation game developed by ConcernedApe and published by Chucklefish. The game was first released in February 2016 and has since become a beloved classic among gamers. In Stardew Valley, you inherit your grandfather's old farm and are tasked with restoring it to its former glory. You can plant crops, raise animals, fish, mine, and craft items as you build a thriving farm and community.</p>
+			<p>Explore the world of Stardew Valley and get lost in its charming and relaxing gameplay. Whether you're a seasoned gamer or new to the genre, Stardew Valley is a must-play.</p>
+		</section>
+		<section>
+			<h2>Gameplay</h2>
+			<p>Stardew Valley is a sandbox game that allows you to play at your own pace. The game is set in a charming, pixelated world filled with vibrant characters and interesting locations. You start by choosing your character's appearance and name, then you're off to start your new life on the farm.</p>
+			<p>The game has a day/night cycle, with each day lasting around 13.5 minutes. You have to manage your time wisely to make the most of each day. You can plant crops, raise animals, fish, mine, and craft items as you build a thriving farm and community.</p>
+			<p>The game also has a social aspect, with various characters you can interact with and build relationships with. You can give them gifts, complete quests for them, and even get married and start a family.</p>
+		</section>
+		<section>
+			<h2>Characters</h2>
+			<p>Stardew Valley has a cast of over 30 unique characters, each with their own personalities and stories. From the grumpy old carpenter to the bubbly and cheerful grocery store owner, the characters in Stardew Valley are a delight to get to know.</p>
+			<p>Interacting with characters is an important part of the game, as it allows you to build relationships and unlock new storylines and quests. You can even get married and start a family with certain characters!</p>
+		</section>
+		<section>
+			<h2>Farming</h2>
+			<p>Farming is the core gameplay mechanic in Stardew Valley. You start with a small plot of land and some basic tools, but with hard work and dedication, you can turn it into a thriving farm.</p>
+			<p>You can plant a variety of crops, from vegetables to fruits to flowers. Each crop has its own growth cycle and season, so you'll need to plan
+
